@@ -8,7 +8,6 @@ This weather app is a simple web application that allows users to check the curr
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [API](#api)
 - [License](#license)
 
 ## Features
